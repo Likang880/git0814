@@ -4,5 +4,9 @@ public class One {
     void add(){
         
     }
+    
+    void update(){
+    
+    }
 
 }
